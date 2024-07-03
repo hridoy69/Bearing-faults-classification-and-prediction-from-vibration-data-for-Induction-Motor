@@ -18,7 +18,7 @@ also contribute significantly to overall operational efficiency, safety, and cos
 in industrial environments. By harnessing the power of data analytics, industries can
 move towards more proactive and sustainable maintenance practices, ensuring the reliability
 and longevity of critical motor equipment.
-#Objectives
+# Objectives
 The primary objectives of the Machine Learning project were:
 • To preprocess and standardize the motor vibration data to ensure consistency
 • To train and evaluate the One-Class SVM model on multiple datasets
