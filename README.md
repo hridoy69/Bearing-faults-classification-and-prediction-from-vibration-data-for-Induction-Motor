@@ -25,3 +25,21 @@ The primary objectives of the Machine Learning project were:
 • To perform a comprehensive evaluation of the model using various metrics, including
 accuracy, precision, recall, and F1-score
 • To identify the dataset that best matches the new data based on the F1-score
+# Data Collection
+The dataset includes triaxial vibration data of bearing of induction motor operated under
+different load conditions along the axes x, y, and z.
+It includes triaxial vibration datasets of motor in healthy condition with and without
+pulley.
+Moreover, the faulty conditions of bearings include inner race and outer race faults of:
+• 0.7mm
+• 0.9mm
+• 1.1mm
+• 1.3mm
+• 1.5m
+• 1.7mm
+The bearings with these fault severity levels were operated under different load conditions
+including 100W, 200W, and 300W.
+There is total 38 datasets of the bearing conditions. The data was acquired at the
+sampling rate of 10 kHz at the rate of 1000 samples per channel. 
+The link to the data can be found below:
+https://data.mendeley.com/datasets/fm6xzxnf36/2 
