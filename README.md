@@ -43,3 +43,7 @@ There is total 38 datasets of the bearing conditions. The data was acquired at t
 sampling rate of 10 kHz at the rate of 1000 samples per channel. 
 The link to the data can be found below:
 https://data.mendeley.com/datasets/fm6xzxnf36/2 
+# Workflow
+![workflow](https://github.com/hridoy69/Bearing-faults-classification-and-prediction-from-vibration-data-for-Induction-Motor/assets/56862433/56444d37-0ec7-4ed2-bc67-35b47d072aaa)
+
+
